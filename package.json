@@ -10,8 +10,8 @@
   "dependencies": {
     "body-parser": "^1.17.2",
     "express": "^4.15.3",
-    "npm": "^6.0.1",
-    "request": "^2.81.0"
+    "request": "^2.81.0",
+	"messenger-bot": "^2.3.0"
   },
   "engines": {
     "node": "6.2.0"
