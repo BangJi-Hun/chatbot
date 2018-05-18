@@ -1,0 +1,19 @@
+{
+  "name": "Chat Bot",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "npm": "^6.0.1",
+    "request": "^2.81.0"
+  },
+  "engines": {
+    "node": "6.2.0"
+  }
+}
